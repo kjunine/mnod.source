@@ -358,6 +358,7 @@ module.exports = function (grunt) {
           src: [
             'package.json',
             'newrelic.js',
+            'Dockerfile',
             'server/**/*'
           ]
         }]
